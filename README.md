@@ -1,7 +1,7 @@
-Fritzing Part: Micro Python pyboard
+Fritzing Part: MicroPython pyboard
 ===================================
 
-Fritzing part for the Micro Python pyboard PYBv1.0
+Fritzing part for the MicroPython pyboard PYBv1.0
 
 <https://micropython.org/store/#/products/PYBv1_0>
 
